@@ -37,6 +37,7 @@ Please check the legal regulations in your country before using it.
 - Click the Start Evil-Twin button and optionally reconnect to the newly created AP named same as your target (will be open).
 - You can stop any of the attacks by visiting 192.168.4.1/admin while conected to Evil-Twin AP or by resetting the ESP8266.
 - Once a correct password is found, AP will be restarted with default ssid "WiPhi_34732" / "d347h320" and at the bottom of a table you should be able to see something like "Successfully got password for - `TARGET_SSID` - `PASSWORD`
+   - If you power down / hard reset the gathered info will be lost
 
 ## Credits:
 * https://github.com/SpacehuhnTech/esp8266_deauther
