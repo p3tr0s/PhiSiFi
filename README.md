@@ -38,6 +38,11 @@ Please check the legal regulations in your country before using it.
 - You can stop any of the attacks by visiting `192.168.4.1/admin` while conected to Evil-Twin AP or by resetting the ESP8266.
 - Once a correct password is found, AP will be restarted with default ssid `WiPhi_34732` / `d347h320` and at the bottom of a table you should be able to see something like "Successfully got password for - `TARGET_SSID` - `PASSWORD`
    - If you power down / hard reset the gathered info will be lost
+ 
+# It doesn't work for me:
+- For starters, I don't really care - it's something I did for fun and a POC that worked on my test surface and I do not provide any support for.
+- Follow SpaceHuhn and read his blog https://blog.spacehuhn.com/deauth-attack-not-working to learn about the attack.
+- If you can offer some input on what you think is wrong feel free to let me know and I will try, at some point, to fix it.
 
 ## Credits:
 * https://github.com/SpacehuhnTech/esp8266_deauther
