@@ -31,12 +31,12 @@ Please check the legal regulations in your country before using it.
 8. Click Upload button
 
 # How to use:
-- Connect to the AP named `WiPhi_34732` with password `d347h32` from your phone/PC.
+- Connect to the AP named `WiPhi_34732` with password `d347h320` from your phone/PC.
 - Select the target AP you want to attack (list of available APs refreshes every 30secs - page reload is required).
 - Click the Start Deauthing button to start kicking devices off the selected network.
 - Click the Start Evil-Twin button and optionally reconnect to the newly created AP named same as your target (will be open).
 - You can stop any of the attacks by visiting 192.168.4.1/admin while conected to Evil-Twin AP or by resetting the ESP8266.
-- Once a correct password is found, AP will be restarted with default ssid "WiPhi_34732" / "d347h32" and at the bottom of a table you should be able to see something like "Successfully got password for - `TARGET_SSID` - `PASSWORD`
+- Once a correct password is found, AP will be restarted with default ssid "WiPhi_34732" / "d347h320" and at the bottom of a table you should be able to see something like "Successfully got password for - `TARGET_SSID` - `PASSWORD`
 
 ## Credits:
 * https://github.com/SpacehuhnTech/esp8266_deauther
