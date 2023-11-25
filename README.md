@@ -1,4 +1,4 @@
-# PhiSiFi
+Nai # PhiSiFi
 <p align="center">
 <a href="https://github.com/p3tr0s/PhiSiFi/"><img title="Tool" src="https://img.shields.io/badge/Tool-PhiSiFi-green"></a>
 <img title="Version" src="https://img.shields.io/badge/Version-1.0-green">
@@ -52,5 +52,5 @@ Please check the legal regulations in your country before using it.
 ## License 
 This software is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Donation/Support/Appreciation
+## Donation / Support / Appreciation
 <a href="https://www.buymeacoffee.com/p3tr0s"><img src="https://static.vecteezy.com/system/resources/previews/025/222/157/original/shawarma-sandwich-isolated-on-transparent-background-png.png"></a>
