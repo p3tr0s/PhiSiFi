@@ -1,4 +1,4 @@
-Nai # PhiSiFi
+# PhiSiFi
 <p align="center">
 <a href="https://github.com/p3tr0s/PhiSiFi/"><img title="Tool" src="https://img.shields.io/badge/Tool-PhiSiFi-green"></a>
 <img title="Version" src="https://img.shields.io/badge/Version-1.0-green">
