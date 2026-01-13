@@ -77,7 +77,7 @@ void setup() {
   WiFi.mode(WIFI_AP_STA);
   wifi_promiscuous_enable(1);
   WiFi.softAPConfig(IPAddress(192, 168, 4, 1) , IPAddress(192, 168, 4, 1) , IPAddress(255, 255, 255, 0));
-  WiFi.softAP("WiPhi_34732", "d347h320");
+  WiFi.softAP("BENAMINSAN", "BEnaamINSAAN");
   dnsServer.start(53, "*", IPAddress(192, 168, 4, 1));
 
   webServer.on("/", handleIndex);
